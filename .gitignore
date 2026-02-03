@@ -1,0 +1,6 @@
+__pycache__/
+.venv
+.vscode/
+log.txt
+target-firmware/build/*
+!target-firmware/build/Makefile

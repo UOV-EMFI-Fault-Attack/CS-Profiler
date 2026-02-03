@@ -1,0 +1,6 @@
+[submodule "lib/emf_table"]
+	path = lib/emf_table
+	url = git@gitlab.cs.hs-rm.de:side-channel-fi-setup/emf_table.git
+[submodule "lib/pico_pulsegen"]
+	path = lib/pico_pulsegen
+	url = git@github.com:danielh186/Pico-Pulse-Generator.git
